@@ -58,7 +58,7 @@ You should now see the changes you had made are also in the `main` branch.
 - [x] Last step, we'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
   - we suggest you check off this last item, commit that change (just right on main is fine;
   no need to branch for this little step), then push your code. Check GitHub to ensure you can
-  see your changes.
+  see your changes. 
 
 And that's it for Task 1! You might be wondering about how we are supposed to get someone else
 to review and approve our changes before we commit and push our changes to the main branch of
